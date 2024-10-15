@@ -64,7 +64,7 @@ function mostrarSeccion(seccion) {
 // En el evento onload llamamos a las funciones de inicio
 window.addEventListener('load', function() {
     // Mostramos la seccion "home"
-    mostrarSeccion("results");
+    mostrarSeccion("quiz");
 });
 
 /* ************************************* */
